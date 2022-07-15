@@ -95,7 +95,6 @@ footer a {
 
 footer a:hover {
   color: rgb(213, 58, 2);
-  transform: scale(1.1);
 }
 
 .modal {
